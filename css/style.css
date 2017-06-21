@@ -1,0 +1,28 @@
+body {
+	background: black;
+}
+
+h1 {
+	color: white;
+}
+#plot{
+	background: white;
+	border: 4px solid #ccc;
+	border-radius: 15px;
+	box-shadow: 5px 5px 5px orange;
+	float: left;
+	height: 360px;
+	padding: 20px;
+	margin: 10px;
+}
+
+#plotSettings {
+	background: white;
+	border: 4px solid #ccc;
+	border-radius: 15px;
+	box-shadow: 5px 5px 5px orange;
+	float: left;
+	height: 360px;
+	padding: 20px;
+	margin: 10px;
+}
